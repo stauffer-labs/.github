@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./stauffer-labs.png" alt="Stauffer Labs logo" width="160">
+</p>
+
 # Stauffer Labs
 
 Tools, libraries, and experiments in computer vision, AI, and software development.
